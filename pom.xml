@@ -6,7 +6,7 @@
 	<groupId>com.jlcindia.boot</groupId>
 	<artifactId>LMS_Boot_Project1</artifactId>
 	<version>1</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>LMS_Boot_Project1</name>
 	<description>This is the LMS BOOT Project</description>
 
